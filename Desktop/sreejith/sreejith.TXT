@@ -1,0 +1,4 @@
+GDFH
+DGG
+GSG
+cat FARSANA.TXT
